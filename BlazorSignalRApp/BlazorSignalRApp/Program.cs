@@ -5,6 +5,11 @@ using BlazorSignalRApp.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddSignalR()
+    .AddAzureSignalR(options =>
+    {
+        options.ConnectionString = "Endpoint=https://xgarip00lab.service.signalr.net;AccessKey=6Zkfe8gjoA3tSXjdzfPSYTtsB7LVcwtnklSGw9PfSoVCJ7nBf1iCJQQJ99AKACPV0roXJ3w3AAAAASRSCNJC;Version=1.0;";
+    });
 // Add services to the container.
 builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
