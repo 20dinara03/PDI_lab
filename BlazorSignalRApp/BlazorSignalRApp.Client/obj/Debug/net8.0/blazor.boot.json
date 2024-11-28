@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorSignalRApp.Client",
   "resources": {
-    "hash": "sha256-hVWJKXhKB8DEJjnTrM7/pVGRHpCse0bH2YEW25jy2sA=",
+    "hash": "sha256-wwwI4fqHpNkAaMeeuDI58KFb28bIGqQbrNUwVP41SeY=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.j9v4u10dp2.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -219,10 +219,10 @@
       "mscorlib.wasm": "sha256-04e4k5XU8HWGB/dq/2+j84xzzGPflTs0IYWI0OxogVc=",
       "netstandard.wasm": "sha256-gnGZURPnoSmjXuYNCOJi5tt8qn2LRImWgue1Ru3/TDQ=",
       "System.Private.CoreLib.wasm": "sha256-6w3jYr0arcp8jnt4aeqh+AmqrLA6q7jl9rQYAwLzE0M=",
-      "BlazorSignalRApp.Client.wasm": "sha256-wx3s1tPVRCD3VESJC4ZcdipOyeRT47g3PBYtNoBYnpA="
+      "BlazorSignalRApp.Client.wasm": "sha256-FmVzDaT1Y1Lh5A4RR0yBtfVaFnVyVj0g+7jsTtL8w+s="
     },
     "pdb": {
-      "BlazorSignalRApp.Client.pdb": "sha256-8RXcuunFn1DJLuz3hvXGS3bze8Gq0brKK2TRn/C7f0Y="
+      "BlazorSignalRApp.Client.pdb": "sha256-eS/dJVC3BVYN5oP+Izlp/rjJM7PTEDDWVhahyQaEXz8="
     }
   },
   "cacheBootResources": true,
