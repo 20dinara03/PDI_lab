@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BlazorSignalRApp.Client",
   "resources": {
-    "hash": "sha256-GF1A5IL+WgAeYQ+igFDmoJCMC5BrA8MD4GfVgWEjgdU=",
+    "hash": "sha256-rrREdPx+Yk/khs05JEoyjaqTVuKKmJAewB5amLNOI5c=",
     "jsModuleNative": {
       "dotnet.native.8.0.11.j9v4u10dp2.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "BlazorSignalRApp.Client.wasm": "sha256-AOttMLORXajiguq/cW72LJ82Nuj9U9VFIENRD3qOOmc=",
+      "BlazorSignalRApp.Client.wasm": "sha256-6q/6OIFq+vdBAqWGaM8pD6ihyL73hGGis9yMrlqAAUA=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-a5/jA8s6j8oZ4bP8Yls4j4jzKw3TadeqLljSVqR77Sc=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-Vr2h8R2kwdyNlfYGSvMyiUAOxBAhmFgILX2icv1WmMk=",
       "Microsoft.AspNetCore.Components.WebAssembly.wasm": "sha256-2PkGFjBVWBhtOsq4PWl/0PeeY/LtxGTInaGQc4/r66A=",

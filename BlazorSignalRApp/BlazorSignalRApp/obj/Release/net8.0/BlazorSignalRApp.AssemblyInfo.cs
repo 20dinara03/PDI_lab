@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorSignalRApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de14249e3b1c78fae7bd1985ea08fde6945ab8d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+feb99f4a0637e5ae67b653c2790f6e696fcc90a1")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorSignalRApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorSignalRApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
